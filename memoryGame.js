@@ -47,7 +47,7 @@
 			for (var i = 0; i < 16; i++){
 
 				var aSquare = document.createElement("div");
-				aSquare.style.width = "17%";
+				aSquare.style.width = "16.5%";
 				aSquare.style.float = "left";
 				aSquare.style.marginTop = "8px";
 				aSquare.style.marginBottom = "8px";
